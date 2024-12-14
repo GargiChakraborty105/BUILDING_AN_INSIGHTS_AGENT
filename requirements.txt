@@ -1,0 +1,6 @@
+fastapi
+pydantic
+typing
+sqlite3
+re
+openai
